@@ -20,7 +20,7 @@ Notify("Notification", "Script is loading...", 5)
 -- Preload Modules
 --========================
 local AutoFishing =
-	c
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/elony-7/PublicIseng/main/Autokuras.lua"))()
 local antiafkmodule =
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/elony-7/PublicIseng/main/AntiAFKGabut.lua"))()
 
