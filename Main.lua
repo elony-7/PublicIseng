@@ -30,7 +30,7 @@ print("Modules loaded:", AutoFishing, TeleportToPlayer, PlayerModule, antiafkmod
 -- Create Main Window
 --========================
 local Window = Fluent:CreateWindow({
-	Title = "IkanTerbang Hub By Elony7K",
+	Title = "IkanTerbang Hub By Elony7K FREE VERSION",
 	SubTitle = "",
 	TabWidth = 140,
 	Size = UDim2.fromOffset(580, 400),
